@@ -1,1 +1,1 @@
-console.log("log", "cmp2");
+console.log("log", "cmp1");
